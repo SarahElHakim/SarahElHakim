@@ -2,6 +2,8 @@
 
 ![Profile Picture](Profile.jpg)
 
+[LinkedIn](https://www.linkedin.com/in/sarah-el-hakim-331135229)
+
 ## Profile
 
 Since I was a child I have been interested in developing a career in Forensic Science and Cyber Security. I have always been inquisitive and love to systematically solve problems via analytical solutions to achieve objectives. 
