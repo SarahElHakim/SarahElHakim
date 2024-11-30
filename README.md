@@ -16,5 +16,8 @@ The contribution I will make to an organisation is my commitment to quality and 
 
 ## Projects
 
-| Title | Description | Link |
-|-------|-------------|------|
+| **Project** | **Description**                                                                                         | **Link**                                     |
+|-------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| PONG        | This is a simple recreation of the classic **PONG** game, developed as one of my first Python projects! | [HERE](https://github.com/SarahElHakim/Pong) |
+|             |                                                                                                         |                                              |
+|             |                                                                                                         |                                              |
